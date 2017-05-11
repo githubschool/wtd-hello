@@ -1,5 +1,13 @@
 ---
 layout: page
-title: hollenberry
+title: template
 ---
 I'm Eric.
+
+## What I do
+
+
+## My favorite things
+
+
+## Stuff
