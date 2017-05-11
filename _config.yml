@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            How to Git - Write the Docs Portland
+tagline:          'Welcome to our class'
+description:      'An introductory project where attendees get to contribute to a class directory'
 url:              https://githubschool.github.io/wtd-hello/
 baseurl:          /wtd-hello/
 
