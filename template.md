@@ -2,7 +2,7 @@
 layout: page
 title: template
 ---
-I'm Eric.
+I'm a template.
 
 ## What I do
 
