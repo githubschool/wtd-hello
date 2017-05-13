@@ -7,8 +7,10 @@ This is a book created by the amazingly talented attendees of the How to Git wor
 
 As part of this lesson, we will be doing the following:
 
+- Communicate our desire to make changes to the project using Issues.
 - Creating a feature branch to add our content to.
 - Making changes to the project files and identifying those changes with commits and well crafted commit messages.
 - Pushing those changes to the classroom repository.
+- Create a Pull Request identifying the changes we want to introduce to the project. 
 - Collaborating on the changes we are introducing with other workshop attendees.
 - Merging our content and seeing it published on our website.
