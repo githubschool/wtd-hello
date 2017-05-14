@@ -2,7 +2,6 @@
 layout: page
 title: Erin's Awesome Page
 ---
-I'm a template.
 
 ## What I do
 - Technical writing
@@ -14,6 +13,7 @@ I'm a template.
 - British comedy from the early '90s
 - Merriam-Webster's Twitter
 - :wine:
+- Japanese music :jp: :notes:
 
 ## Stuff
-- :wine:
+- Words, words, words
