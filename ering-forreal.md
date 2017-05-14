@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Other Erin
+title: Erin Grace
 ---
 
 ## What I do
