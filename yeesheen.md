@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Yeesheen Yang
+title: Yeesheen
 ---
 
 ## What I do
-Sr. Customer Education Manager
-I manage the Knowledge Base and in-app help programs at Optimizely (A/B testing and experimentation platform)!
+I manage the Knowledge Base and in-app education programs at Optimizely (an A/B testing and experimentation platform)!
 
 ## My favorite things
-Yoga, cats, coffee, hikes, SF novels ...
+Yoga, cats, coffee, backpacking, SF novels ...
 
 ## Stuff
 [Twitter](https://twitter.com/yeesheenyang)
