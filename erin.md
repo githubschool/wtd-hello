@@ -9,4 +9,4 @@ I do all the things. Technical writer and documentation manager.
 ## My favorite things
 * :soccer:
 * Ice cream
-* :airplane: London, NYC
+* London, NYC :airplane: 
