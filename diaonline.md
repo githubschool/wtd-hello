@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Diana's  Page
+title: diaonline  
 ---
 
-
 ## What I do
-
+I am a technical writer and do photography
 
 ## My favorite things
+- Hungarian dancing 
+- Travelling :airplane:
 
 
-## Stuff
