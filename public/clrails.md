@@ -2,8 +2,11 @@
 layout: page
 title: About me
 ---
+
 My stuff . . .
 
-Technical writer from the coasts.
+## What I do
++I'm a technical writer from the coasts.
 
-Favorite things: Freesias :flowers: and :avocado:.
+## Favorite things: 
++Freesias :flowers: and :avocado:.
