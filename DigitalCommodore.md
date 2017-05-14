@@ -9,8 +9,8 @@ MMO Playing
 Cooking
 
 ## My favorite things
-MMO Playing
-Cooking
+- MMO Playing
+- Cooking
 
 ## Stuff
 Stuff -and- things.
