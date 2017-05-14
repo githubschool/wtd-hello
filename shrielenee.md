@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shrie: a quasi summary
+title: Shrie
 ---
 
 ## A bit about me
