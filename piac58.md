@@ -4,10 +4,13 @@ title: Pia C.
 ---
 
 ## What I do
-blah
+Cloud SQL elucidated
 
 
 ## My favorite things
-
+- Cooking
+- Eating
+- Repeat
 
 ## Stuff
+Resist
