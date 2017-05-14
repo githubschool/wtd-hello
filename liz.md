@@ -7,6 +7,4 @@ title: Liz
 I work with words. Ideas and words. Tech, ideas, and words. And cats.
 :cat:
 
-hello other
-
 # elizabethharris
