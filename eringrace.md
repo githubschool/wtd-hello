@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Erin's Awesome Page
+title: The Other Erin
 ---
 
 ## What I do
-- Technical writing
-- Twitter lurking
-- Bunny petting
-- Editing/copwriting
+I do all the things. Technical writer and documentation manager.
 
 ## My favorite things
 - British comedy from the early '90s
