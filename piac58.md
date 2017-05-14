@@ -13,4 +13,4 @@ Cloud SQL elucidated
 - Repeat
 
 ## Stuff
-Resist
+Resist :fist:
