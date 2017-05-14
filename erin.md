@@ -12,9 +12,8 @@ I'm a template.
 
 ## My favorite things
 - British comedy from the early '90s
-- Telling people that language changes and to quit being pedantic
-- Fighting for "their" as singular pronoun
 - Merriam-Webster's Twitter
+- :wine:
 
 ## Stuff
 - :wine:
