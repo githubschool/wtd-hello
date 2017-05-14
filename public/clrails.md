@@ -1,9 +1,9 @@
 ---
 layout: page
-title: template
+title: About me
 ---
-I'm a template.
+My stuff . . .
 
 Technical writer from the coasts.
 
-Freesias and avocados.
+Favorite things: Freesias :flowers: and :avocado:.
