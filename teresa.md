@@ -1,12 +1,14 @@
 ---
 layout: page
-title: template
+title: Teresa
 ---
 
-## I fool around with content and code. 
+## What I do
+I fool around with content and code. 
 
 
-## I prefer time off and travel. 
-
+## My favorite things
+- :travel: 
+- :airplane:
 
 ## Stuff
