@@ -12,7 +12,7 @@ title: Erin's Awesome Page
 ## My favorite things
 - British comedy from the early '90s
 - Merriam-Webster's Twitter
-- :wine:
+- :wine_glass:
 - Japanese music :jp: :notes:
 
 ## Stuff
