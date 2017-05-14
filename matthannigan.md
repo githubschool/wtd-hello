@@ -15,4 +15,4 @@ I work at [The Sprout Fund](http://www.sproutfund.org).
 - legos
 
 ## Stuff
-I'm replacing the floor of my house. Bamboo!
+I'm replacing the floor of my house. Strand bamboo!
