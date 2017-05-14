@@ -1,7 +1,10 @@
 # How to Git - Hello, I'm `insert name`
 Welcome to one of the repositories we will be using in today's workshop. In this repository, we will be creating content as collaborators in this repository.
 
-## Resources
+## Activity Resources
+This GitHub Pages site is built using Hyde and Poole with some minor modifications.
+
+## Other Git Resources
 
 - [GitHub for Developers Manual](https://github.github.io/training-manual/)
 - [Git Cheat Sheets](https://services.github.com/resources/)
