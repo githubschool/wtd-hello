@@ -8,4 +8,4 @@ I'm a cartographer and writer.
 I make maps and write words.
 
 ## My favorite things
-white chocolate
+white chocolate. lots of it
