@@ -24,3 +24,7 @@ I like some things, including but not limited to:
 * Reading literary fiction
 * Slowly peddling my bike on roads and trails
 
+
+## Why I'm here
+
+I want to learn about the current world of technical writing, new techniques and ideas, and network with other people who do what I do.
