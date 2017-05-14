@@ -14,6 +14,9 @@ This GitHub Pages site is built using Hyde and Poole with some minor modificatio
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 
+
+- [On Demand](https://services.github.com/on-demand/)
+
 ### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
 - [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
