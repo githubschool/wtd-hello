@@ -1,30 +1,20 @@
 ---
 layout: page
-title: Shrie
+title: Shrie: a quasi summary
 ---
-
-# Shrie: a quasi-summary
-
 
 ## A bit about me
 
-I'm a tech writer, avid reader, journaler, record collector, and peer-pressurer living in sunny Austin, TX.
+I'm a tech writer, avid reader, journaler, record collector, and peer-pressurer living in :sunny: Austin, TX.
 
 
 ## Things I like
 
 I like some things, including but not limited to:
 
-* Hanging with puppies and kitties
-* Flying kites in the sunshine
-* Eating nachos and burritos
-* Picking through dusty record bins
-* Cultivating my square foot garden
-* Going on swim-ventures
-* Reading literary fiction
-* Slowly peddling my bike on roads and trails
-
-
-## Why I'm here
-
-I want to learn about the current world of technical writing, new techniques and ideas, and network with other people who do what I do.
+- Flying kites in the sunshine
+- Picking through dusty record bins
+- Cultivating my square foot garden
+- Going on swim-ventures
+- Reading literary fiction
+- Slowly peddling my bike on roads and trails
