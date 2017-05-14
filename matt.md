@@ -4,9 +4,7 @@ title: Matt!
 ---
 
 ## What I do
-
+I train on GitHub and :airplane:
 
 ## My favorite things
-
-
-## Stuff
+- :beer: from local spots around the :globe:
