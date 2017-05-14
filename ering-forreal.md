@@ -7,6 +7,10 @@ title: The Other Erin
 I do all the things. Technical writer and documentation manager.
 
 ## My favorite things
-* :soccer:
-* Ice cream
-* London, NYC :airplane:
+- British comedy from the early '90s
+- Merriam-Webster's Twitter
+- :wine_glass:
+- Japanese music :jp: :notes:
+
+## Stuff
+- Words, words, words
