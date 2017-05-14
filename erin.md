@@ -7,6 +7,6 @@ title: template
 I document all the things!
 
 ## My favorite things
-Playing :soccer:
-Eating :ice cream:
-Travel :airplane:
+* Playing :soccer:
+* Eating :ice cream:
+* Travel :airplane:
