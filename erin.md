@@ -1,12 +1,12 @@
 ---
 layout: page
-title: template
+title: About Erin
 ---
 
 ## What I do
-I document all the things!
+I do all the things. Technical writer and documentation manager.
 
 ## My favorite things
-* Playing :soccer:
-* Eating :ice cream:
-* Travel :airplane:
+* :soccer:
+* Ice cream
+* :airplane: London, NYC
