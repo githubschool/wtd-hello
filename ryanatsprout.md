@@ -12,3 +12,4 @@ The cool side of the pillow.
 
 ## Stuff
 Yeah, stuff's OK sometimes. Especially with an extra cup of coffee
+Yeah, stuff's OK sometimes, especially with a friend.
