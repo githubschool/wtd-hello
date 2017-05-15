@@ -7,7 +7,7 @@ title: Taisa
 Learn
 
 ## My favorite things
-write code
+write code, write poetry.
 
 ## Stuff
 I am finally joining the github class on this project.
