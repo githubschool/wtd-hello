@@ -10,4 +10,4 @@ Learn
 write code, write poetry.
 
 ## Stuff
-I am finally joining the github class on this project.
+I am finally joining the github class on this project. I love the docs
